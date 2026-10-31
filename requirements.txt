@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+fastapi
+uvicorn[standard]
+yfinance
+pandas
+numpy
+einops
+huggingface_hub
+safetensors
+tqdm
